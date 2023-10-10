@@ -31,7 +31,7 @@ Enter the number of the option: 1
 2 duplicates were found:
   Name of item: 2 duplicates
   Another item: 2 duplicates
-Would you like to archive these 220 duplicates now? (y/N): y
+Would you like to archive these 2 duplicates now? (y/N): y
 Archiving dupe of Name of item
 Archiving dupe of Another item
 ```
