@@ -2,6 +2,8 @@
 
 1Password used to have a tool to help you find and remove duplicates, but they removed it. This is a simple script that uses the 1Password CLI to find and archive duplicates.
 
+UPDATE: They've added a dupe finder to the Watchtower in the latest beta, hopefully rendering this obsolete: https://1password.community/discussion/comment/697252/#Comment_697252
+
 # Getting started:
 
 0. Clone this repo
